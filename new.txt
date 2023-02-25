@@ -1,0 +1,5 @@
+Surname: Mustafina,
+Name: Vera,
+age: 30,
+pet: cat Mr. Roshfor,
+future desired salary: 1500$
