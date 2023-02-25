@@ -1,0 +1,4 @@
+Skills: Test casees, 
+	Mobile testing
+	Linux terminal
+	

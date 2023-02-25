@@ -1,0 +1,5 @@
+Favorite movie: Titanik,
+Favorite series: Friends,
+Ffavorite meals: pizza,
+Favorite season: summer,
+Country would you like to visit: Canada
